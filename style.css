@@ -1,11 +1,13 @@
-#plano img{
-    width: 1200px;
+*{
+    margin:0;
+    padding:0;
 }
-#plano{
-    position:relative;
+
+.container{
+    width: 80%;
+    
 }
-#dionisos{
-    position:absolute;
-    top:590px;
-    left:400px;
+.mapa{
+    margin: 20px;
+    
 }
